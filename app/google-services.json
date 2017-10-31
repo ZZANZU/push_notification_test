@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654439352805",
+    "project_id": "pushnotification-42d58"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654439352805:android:4ccace6853fdd8b3",
+        "android_client_info": {
+          "package_name": "com.tistory.dayglo.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654439352805-6s4dcc8bs37sbk7u28b2c7j7olu4tu60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcIfdUocVJV_F0031myljDlTqRNwgH2I0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
